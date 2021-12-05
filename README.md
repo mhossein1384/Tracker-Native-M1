@@ -1,5 +1,7 @@
 
 # Tracker-Native-M1
-Let's use Tracker(https://physlets.org/tracker/) natively on apple silicon.
+Customized ARM Build of Tracker(https://physlets.org/tracker/) For macOS
+
+
 
 The project is 15% done... 
